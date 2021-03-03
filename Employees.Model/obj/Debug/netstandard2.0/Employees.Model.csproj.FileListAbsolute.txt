@@ -1,0 +1,9 @@
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\bin\Debug\netstandard2.0\Employees.Model.deps.json
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\bin\Debug\netstandard2.0\Employees.Model.dll
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\bin\Debug\netstandard2.0\Employees.Model.pdb
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\obj\Debug\netstandard2.0\Employees.Model.csprojAssemblyReference.cache
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\obj\Debug\netstandard2.0\Employees.Model.csproj.CoreCompileInputs.cache
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\obj\Debug\netstandard2.0\Employees.Model.AssemblyInfoInputs.cache
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\obj\Debug\netstandard2.0\Employees.Model.AssemblyInfo.cs
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\obj\Debug\netstandard2.0\Employees.Model.dll
+D:\Projects\CoreProjects\WebApplication1\Employees.Model\obj\Debug\netstandard2.0\Employees.Model.pdb

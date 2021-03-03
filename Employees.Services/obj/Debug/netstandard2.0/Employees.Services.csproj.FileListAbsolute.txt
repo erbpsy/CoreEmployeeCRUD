@@ -1,0 +1,12 @@
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\bin\Debug\netstandard2.0\Employees.Services.deps.json
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\bin\Debug\netstandard2.0\Employees.Services.dll
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\bin\Debug\netstandard2.0\Employees.Services.pdb
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\bin\Debug\netstandard2.0\Employees.Model.dll
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\bin\Debug\netstandard2.0\Employees.Model.pdb
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\obj\Debug\netstandard2.0\Employees.Services.csprojAssemblyReference.cache
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\obj\Debug\netstandard2.0\Employees.Services.csproj.CoreCompileInputs.cache
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\obj\Debug\netstandard2.0\Employees.Services.AssemblyInfoInputs.cache
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\obj\Debug\netstandard2.0\Employees.Services.AssemblyInfo.cs
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\obj\Debug\netstandard2.0\Employees.Services.csproj.CopyComplete
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\obj\Debug\netstandard2.0\Employees.Services.dll
+D:\Projects\CoreProjects\WebApplication1\Employees.Services\obj\Debug\netstandard2.0\Employees.Services.pdb
